@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "Tata",
+    "NumberOfShares":200,
+    "SharePrice": 400
+  },
+  {
+    "StockName": "Wipro",
+    "NumberOfShares": 300,
+    "SharePrice": 200
+  },
+  {
+    "StockName": "Paytm",
+    "NumberOfShares": 4000,
+    "SharePrice": 500
+  }
+]
