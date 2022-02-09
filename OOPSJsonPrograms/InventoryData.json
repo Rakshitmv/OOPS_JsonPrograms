@@ -1,17 +1,68 @@
-[
-  {
-    "Name": "Rice",
-    "Price": 30,
-    "Weight": 10
-  },
-  {
-    "Name": "Wheat",
-    "Price": 25,
-    "Weight": 10
-  },
-  {
-    "Name": "Pulses",
-    "Price": 40,
-    "Weight": 10
-  }
-]
+{
+  "RiceList": [
+    {
+      "Name": "Black Rice",
+      "Price": 30,
+      "Weight": 10
+    },
+    {
+      "Name": "Brown Rice",
+      "Price": 25,
+      "Weight": 15
+    },
+    {
+      "Name": "Red Cargo Rice",
+      "Price": 40,
+      "Weight": 20
+    },
+    {
+      "Name": "Long grain White Rice",
+      "Price": 60,
+      "Weight": 25
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Hard Red Winter",
+      "Price": 20,
+      "Weight": 30
+    },
+    {
+      "Name": "Hard Spring Wheat",
+      "Price": 30,
+      "Weight": 40
+    },
+    {
+      "Name": "Soft Red Wheat",
+      "Price": 40,
+      "Weight": 50
+    },
+    {
+      "Name": "Durum Wheat",
+      "Price": 50,
+      "Weight": 60
+    },
+  ],
+  "Pulses List": [
+    {
+      "Name": "Baked Beans",
+      "Price": 100,
+      "Weight": 70
+    },
+    {
+      "Name": "Garden Peas",
+      "Price": 110,
+      "Weight": 80
+    },
+    {
+      "Name": "Runner Beans",
+      "Price": 120,
+      "Weight": 90
+    },
+    {
+      "Name": "Broad Beans",
+      "Price": 50,
+      "Weight": 60
+    }
+  ]
+}

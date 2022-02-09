@@ -47,14 +47,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Inventory.cs" />
+    <Compile Include="InventoryFactory.cs" />
     <Compile Include="InventoryManagement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC3_StockManagement\StockAccountManagement.cs" />
+    <Compile Include="UC3_StockManagement\StocksInventory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="InventoryData.json" />
     <None Include="packages.config" />
+    <None Include="UC3_StockManagement\Stocks.json" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
